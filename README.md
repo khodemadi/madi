@@ -1,4 +1,4 @@
-# Madi v0.3
+# Madi
 
 AI-native Linux CLI written in Rust.
 
